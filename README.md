@@ -19,8 +19,8 @@ Data preprocessing and feature engineering
 Model training and evaluation using algorithms like Logistic Regression, Random Forest, etc.
 
 ### Files
-titanic_survival_prediction.py: Main script for model training and evaluation.
-titanic_data.csv: Dataset used for training and testing.
+Task 1.ipynb: Main script for model training and evaluation.
+Titanic-Dataset.csv: Dataset used for training and testing.
 
 
 ## Movie Rating Prediction
@@ -34,8 +34,8 @@ Implementation of collaborative filtering models
 Evaluation using metrics such as RMSE (Root Mean Squared Error)
 
 ### Files
-movie_rating_prediction.py: Main script for model training and evaluation.
-movie_ratings_data.csv: Dataset used for training and testing.
+Task 2.ipynb: Main script for model training and evaluation.
+INDb_Movies_India.csv: Dataset used for training and testing.
 
 
 ## Iris Flower Classification
@@ -49,8 +49,8 @@ Model training using k-Nearest Neighbors (k-NN) and other classifiers
 Performance evaluation using accuracy and classification report
 
 ### Files
-iris_flower_classification.py: Main script for model training and evaluation.
-iris_data.csv: Dataset used for training and testing.
+Task 3.csv: Main script for dataset, model training and evaluation.
+
 
 ## Contributing
 Feel free to submit issues or pull requests if you have improvements or fixes. Please make sure to follow the project's coding standards and provide clear commit messages.
